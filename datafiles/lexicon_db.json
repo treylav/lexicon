@@ -12,7 +12,7 @@
 					"long": "D MMMM, Y",
 					"medium": "D MMM, Y",
 					"short": "D/M/Y"
-				},
+				}
 			}
 		},
 		{
@@ -24,7 +24,7 @@
 		},
 		{
 		"name": "English (United States)",
-			"locale": "US",
+			"locale": "US"
 		}],
 		"format": {
 			"firstDayOfWeek": 0,
